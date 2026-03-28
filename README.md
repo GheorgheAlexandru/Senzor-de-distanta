@@ -26,9 +26,29 @@ Perfect pentru robotică, asistență la parcare sau aplicații de evitare a obs
 4. Când distanța este mai mică de 10cm, buzzer-ul și LED-ul se activează
 5. Frecvența alarmei se adaptează în funcție de proximitate
 
-## Aplicații
+## Aplicații Proiectului
 
 - Măsurători de distanță în industrie
 - Proiecte de robotică
 - Sisteme de evitare a obstacolelor
 - Dispozitive de siguranță
+- Sisteme de parcare asistată
+- Robotică mobilă
+
+## Aplicații Utilizate
+
+- **Arduino IDE** - Mediul de dezvoltare pentru programarea microcontrollerului
+- **KiCad** - Software pentru proiectarea schemelor electrice (Senzor_distanta.kicad_pro)
+- **Serial Monitor** - Pentru monitorizarea și debugging a datelor de distanță în timp real
+
+## Skilluri Învățate
+
+- 🔧 **Programare Arduino/C++** - Scrierea codului pentru microcontrollere
+- 📡 **Comunicație I/O Digital** - Utilizarea pinilor digitali pentru trigger și echo
+- 📊 **Procesare Semnale** - Calcularea distanței din durata impulsului ultrasonic
+- ⚡ **Controlul componentelor electronice** - LED, Buzzer, Senzori
+- 🛠️ **Proiectare electronică** - Crearea schemelor cu KiCad
+- 🔌 **Prototiping hardware** - Conectarea componentelor pe breadboard
+- 🎵 **Feedback audio-vizual** - Implementarea alarmelor cu sunet și lumină
+- 📈 **Debugging și troubleshooting** - Rezolvarea problemelor cu senzori și circuite
+- 💻 **Transmisie de date serială** - Comunicația Arduino-PC prin porta serială
