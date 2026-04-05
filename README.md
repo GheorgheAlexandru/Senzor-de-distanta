@@ -26,6 +26,8 @@ Perfect pentru robotică, asistență la parcare sau aplicații de evitare a obs
 4. Când distanța este mai mică de 10cm, buzzer-ul și LED-ul se activează
 5. Frecvența alarmei se adaptează în funcție de proximitate
 
+[▶️ Watch the Demo Video](https://github.com/GheorgheAlexandru/Senzor-de-distanta/raw/main/Senzor_Distanta.mp4)
+
 ## Aplicații Proiectului
 
 - Măsurători de distanță în industrie
